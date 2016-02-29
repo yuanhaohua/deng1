@@ -20,6 +20,7 @@
     NSLog(@"521");
     NSLog(@"122");
     NSLog(@"wanjihong123");
+    NSLog(@"yin");
 }
 
 - (void)didReceiveMemoryWarning {
